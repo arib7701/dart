@@ -4,7 +4,7 @@ description: Generates lcov and/or HTML coverage reports for Dart projects. (UNI
 homepage: https://github.com/codecov/dart
 dependencies:
   args: "^1.5.0"
-  logging: ">=0.9.0 <0.12.0"
+  logging: ">=0.9.0 <1.1.0"
   path: "^1.6.3"
 environment:
   sdk: ">=2.12.0-0 <2.14.0"
